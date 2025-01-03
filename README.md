@@ -1,79 +1,69 @@
-# RDR2 Cheats
+<img src=".github/maxresdefault.jpg">
 
-A collection of mods and scripts for enhancing the Red Dead Redemption 2 gameplay experience. This repository includes an **Auto Loot Script**, a **Native Trainer**, and the essential **Script Hook RDR2** files for loading mods into the game.
+# RDR2 Cheats Installation Guide
 
----
-
-## 📁 Directory Structure
-
-```
-RDR2 CHEATS/
-├── Mods/
-├── Red Dead Redemption 2/
-│   ├── dinput8.dll
-│   ├── NativeTrainer.asi
-│   ├── ScriptHookRDR2.dll
-├── Script/
-    ├── Auto Loot/
-        ├── AutoLooting.asi
-```
+This guide explains how to install **Script Hook RDR2** for Red Dead Redemption 2. Follow the steps below to enhance your game experience.
 
 ---
 
-## 🛠️ Installation Instructions
+## 1. Installing Script Hook RDR2
+### Required Files:
+- `ScriptHookRDR2_1.0.1491.1.zip` or your current version.
 
-1. **Download Required Files:**
-   - Ensure you have the latest version of **ScriptHookRDR2** ([Download Here](http://www.dev-c.com/rdr2/scripthookrdr2/)).
-   - Download the provided `AutoLooting.asi` file from this repository.
-
-2. **Place Files in Root Directory:**
-   - Copy the following files to your Red Dead Redemption 2 root directory (where `RDR2.exe` is located):
-     - `dinput8.dll`
-     - `ScriptHookRDR2.dll`
-     - `NativeTrainer.asi`
-     - `AutoLooting.asi`
-
-3. **Ensure Compatibility:**
-   - Verify that your game version is compatible with the ScriptHookRDR2 version.
-
-4. **Run the Game:**
-   - Launch Red Dead Redemption 2.
-   - Press `F4` to open the **Native Trainer** menu and verify the mod is working.
+### Installation Steps:
+1. Extract the **Script Hook RDR2** archive.
+2. Select the following files:
+   - `ScriptHookRDR2.dll`
+   - `dinput8.dll` (this is required for the ASI loader).
+3. Copy these files to the main game directory where `RDR2.exe` is located.
 
 ---
 
-## 🚀 Features
+### Mod Install Guides
 
-### **AutoLooting Script**
-- Automates the looting process to save time.
-- Works seamlessly with other mods.
-
-### **Native Trainer**
-- Adds cheat functionality, including:
-  - Teleportation.
-  - Infinite ammo.
-  - Player stats editing.
+- [Auto Loot](guide/AutoLoot.md)
+- [Rampage Mod Menu](guide/Rampage.md)
 
 ---
 
-## 🔧 Troubleshooting
-
-- If mods do not work:
-  - Ensure all files are correctly placed in the root directory.
-  - Run the game as an administrator.
-  - Verify Script Hook compatibility with your game version.
-
-- If the game crashes:
-  - Temporarily remove the mods and test one by one to identify the issue.
+## 2. Launching the Game
+1. Start the game normally through the **Rockstar Launcher**.
+2. If installed correctly, the Script Hook functionality will be active in the game.
 
 ---
 
-## 📜 License
-This repository is for personal use only. Please respect the modding community and use mods responsibly.
+## 3. Important Notes
+- **Do not use cheats or mods in Online Mode!** This may result in your account being **banned**.
+- Always back up your game files before installing mods or cheats.
+- Use cheats and mods only for **Story Mode**.
 
 ---
 
-## 💬 Support
-For further assistance or questions, feel free to open an issue in this repository or contact the developer.
+## 4. Troubleshooting
+If the cheats do not work:
+- Verify that the files are placed in the correct directory.
+- Ensure the version of the mod matches your game version.
+- Check the log files for potential errors.
 
-Enjoy modding RDR2! 🎮
+---
+
+With these steps, you can safely enjoy your enhanced game experience in **Story Mode**. Have fun and game on! 🎮
+
+---
+
+## Issues and Feedback
+
+Have you found a bug or want to suggest an improvement? Please let us know by opening an issue:
+
+- [Open an Issue](https://github.com/jasurhaydarovcode/RDR2-CHEATS-PACK/issues)
+
+**How to Report an Issue:**
+1. Provide a clear and concise description of the issue.
+2. Include steps to reproduce the problem.
+3. Attach screenshots or logs if applicable.
+
+We appreciate your feedback to improve this guide. 😊
+
+---
+
+Enjoy modding and have fun in RDR2! 🎮
